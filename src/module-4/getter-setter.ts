@@ -7,7 +7,7 @@
 //         this._balance = balance;
 //         this.id = id;
 //     }
-//     // getBalance() {
+//     // getBalance() {i
 //     //     console.log(`My current balance is ${this._balance}`);
 //     // }
 
